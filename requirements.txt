@@ -1,0 +1,6 @@
+numpy==1.20.3
+torch==1.10.2
+librosa==0.9.2
+tqdm==4.65.0
+matplotlib==3.7.1
+soundfile==0.11.0

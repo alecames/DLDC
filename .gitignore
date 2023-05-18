@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+archive
+*.zip
+/report-latex
+/export
