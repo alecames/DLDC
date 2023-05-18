@@ -91,7 +91,7 @@ After classification, the script will print the resulting transcription to the c
 
 ## Read More
 
-For more information about this project, see the [report](/report/project-report.pdf).
+For more information about this project, see the [paper](/report/project-report.pdf).
 
 ## License
 
