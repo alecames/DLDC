@@ -4,3 +4,4 @@ archive
 *.zip
 /report-latex
 /export
+*.code-workspace
